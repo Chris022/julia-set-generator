@@ -6,7 +6,7 @@ Generates pictures of jula sets.
 
 ### Examples:
 
-![julia](C:\Users\Christoph Weberbauer\Documents\Linux\Programmieren\Python\JuliaSet\julia-set-generator\julia-set-generator\julia.png)
+![julia](./julia.png)
 
 ### Usage:
 
